@@ -310,7 +310,7 @@
 /* --------------------- */
 
 .event-countdown-area {
-  background-image: url("/img/fondos/1.png");
+  background-image: url("../img/fondos/1.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -329,7 +329,7 @@
 }
 
 .event-dress-area {
-  background-image: url("/img/fondos/1.png");
+  background-image: url("../img/fondos/1.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -348,7 +348,7 @@
 }
 
 .event-reception-area {
-  background-image: url("/img/fondos/2.png");
+  background-image: url("../img/fondos/2.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -367,7 +367,7 @@
 }
 
 .event-confirmation-area {
-  background-image: url("/img/fondos/5.png");
+  background-image: url("../img/fondos/5.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
